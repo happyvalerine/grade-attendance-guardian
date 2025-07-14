@@ -1,4 +1,6 @@
 # Learning Experience
+## Background 
+Transforming grade and attendance reports to quickly identify students who are at risk and may need additional support from teachers.
 
 This AI-powered method makes building web apps incredibly easy through its text-to-app generation. It's perfect for quickly developing prototypes or pitching demos—just describe the changes you need, and the platform updates your app in under five minutes (minimize the traditional coding time to update the changes).
 
