@@ -1,7 +1,12 @@
-# Learning Experience
-## Background 
+# Thoughts on how AI will impact software development
+AI will significantly transform the software development lifecycle by automating routine tasks such as code generation and testing, enhancing efficiency, improving code quality, and enabling faster prototyping. It empowers developers with powerful tools while also providing opportunities for non-technical users to create software. 
+
+However, as AI takes on more responsibility, the role of developers will increasingly shift from writing code to higher-level tasks such as designing, enhance security, problem-solving, speed up development and innovation. 
+
+# Background 
 Transforming grade and attendance reports to quickly identify students who are at risk and may need additional support from teachers.
 
+# Learning Experience
 This AI-powered method makes building web apps incredibly easy through its text-to-app generation. It's perfect for quickly developing prototypes or pitching demos—just describe the changes you need, and the platform updates your app in under five minutes (minimize the traditional coding time to update the changes).
 
 One of the best parts is that there’s no need to install any development tools or set up a coding environment (No Setup cost)—you can jump straight into building. Plus, it seamlessly syncs your changes to GitHub, making version control and collaboration effortless.
@@ -11,11 +16,6 @@ It's a great tool for non-technical creators, product teams, and developers who 
 We will still need to responsible on the security and scalability when using such tools in the market.
 
 The following content was generated using Lovable.dev. The platform offers 5 free credits for new users to explore its features
-
-# Thoughts on how AI will impact software development
-AI will significantly transform the software development lifecycle by automating routine tasks such as code generation and testing, enhancing efficiency, improving code quality, and enabling faster prototyping. It empowers developers with powerful tools while also providing opportunities for non-technical users to create software. 
-
-However, as AI takes on more responsibility, the role of developers will increasingly shift from writing code to higher-level tasks such as designing, enhance security, problem-solving, speed up development and innovation. 
 
 # Welcome to your Lovable project
 
