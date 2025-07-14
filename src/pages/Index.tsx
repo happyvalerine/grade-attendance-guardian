@@ -1,10 +1,9 @@
 
 import { useState } from 'react';
 import { StudentForm } from '@/components/StudentForm';
-import { StudentDashboard } from '@/components/StudentDashboard';
-import { RiskSummary } from '@/components/RiskSummary';
+import { StudentRiskChart } from '@/components/StudentRiskChart';
 import { Student } from '@/types/Student';
-import { GraduationCap, Users, AlertTriangle } from 'lucide-react';
+import { GraduationCap } from 'lucide-react';
 
 const Index = () => {
   const [students, setStudents] = useState<Student[]>([
@@ -107,9 +106,6 @@ const Index = () => {
       </header>
 
       <div className="max-w-7xl mx-auto px-4 py-8">
-        {/* Risk Summary */}
-        <RiskSummary students={students} />
-
         {/* Main Content */}
         <div className="mt-8">
           {showForm ? (
@@ -132,11 +128,7 @@ const Index = () => {
               />
             </div>
           ) : (
-            <StudentDashboard
-              students={students}
-              onEditStudent={handleEditStudent}
-              onDeleteStudent={handleDeleteStudent}
-            />
+            <StudentRiskChart students={students} />
           )}
         </div>
       </div>
