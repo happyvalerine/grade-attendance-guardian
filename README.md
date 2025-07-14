@@ -1,6 +1,6 @@
 # Learning Experience
 
-This website makes building web apps incredibly easy with its text-to-app generation. It's perfect for quickly developing prototypes or pitching demos—just describe the changes you need, and the platform updates your app in under five minutes (minimize the traditional coding time to update the changes).
+This AI-powered method makes building web apps incredibly easy through its text-to-app generation. It's perfect for quickly developing prototypes or pitching demos—just describe the changes you need, and the platform updates your app in under five minutes (minimize the traditional coding time to update the changes).
 
 One of the best parts is that there’s no need to install any development tools or set up a coding environment (No Setup cost)—you can jump straight into building. Plus, it seamlessly syncs your changes to GitHub, making version control and collaboration effortless.
 
