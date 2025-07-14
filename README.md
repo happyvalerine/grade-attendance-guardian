@@ -15,7 +15,7 @@ It's a great tool for non-technical creators, product teams, and developers who 
 
 We will still need to responsible on the security and scalability when using such tools in the market.
 
-The following content was generated using Lovable.dev. The platform offers 5 free credits for new users to explore its features
+The following content was generated using Lovable.dev. The platform offers 5 free credits for new users to explore its features. Simply describe your ideas in the chat, and it will automatically generate a web app prototype for you.
 
 # Welcome to your Lovable project
 
