@@ -10,6 +10,9 @@ We will still need to responsible on the security and scalability when using suc
 
 The following content was generated using Lovable.dev. The platform offers 5 free credits for new users to explore its features
 
+# Thoughts on how AI will imapct software development
+AI will significantly transform the software development lifecycle by automating routine tasks such as code generation and testing, enhancing efficiency, improving code quality, and enabling faster prototyping. It empowers developers with powerful tools while also providing opportunities for non-technical users to create software. However, as AI takes on more responsibility, the role of developers will increasingly shift from writing code to higher-level tasks such as designing, enhance security, problem-solving, speed up development and innovation. 
+
 # Welcome to your Lovable project
 
 ## Project info
